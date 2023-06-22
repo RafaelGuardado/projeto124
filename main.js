@@ -38,5 +38,5 @@ background('#6C91C2');
   document.getElementById("font_size").innerHTML = "Tamanho da fonte será = " + difference +"px";
 textSize(difference);
 fill('#FFE787');
-text('Pedro', 50, 400);
+text('Rafael', 50, 400);
 }
